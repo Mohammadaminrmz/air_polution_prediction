@@ -1,6 +1,5 @@
 .ipynb_checkpoints
 *.sql
-*.csv
-
-!models/magazine_model/magazine_dataset.csv
-!models/inter_model/inter_dataset.csv
+venv
+*.pdf
+*.docx
